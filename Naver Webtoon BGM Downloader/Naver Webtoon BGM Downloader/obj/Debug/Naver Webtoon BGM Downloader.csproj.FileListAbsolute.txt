@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\bin\Debug\Naver Webtoon BGM Downloader.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\bin\Debug\Naver Webtoon BGM Downloader.exe
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\bin\Debug\Naver Webtoon BGM Downloader.pdb
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader.g.resources
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver_Webtoon_BGM_Downloader.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader.exe
+c:\users\user\documents\visual studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Naver Webtoon BGM Downloader\Naver Webtoon BGM Downloader\obj\Debug\Naver Webtoon BGM Downloader.csprojResolveAssemblyReference.cache

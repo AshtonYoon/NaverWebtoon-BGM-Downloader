@@ -1,0 +1,21 @@
+﻿  RedBlackTree.c
+c:\users\user\documents\visual studio 2015\projects\datastructures\datastructures\redblacktree.c(359): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\datastructures\datastructures\redblacktree.c(361): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  LinkedQueue.c
+c:\users\user\documents\visual studio 2015\projects\datastructures\datastructures\linkedqueue.c(29): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  LinkedListStack.c
+c:\users\user\documents\visual studio 2015\projects\datastructures\datastructures\linkedliststack.c(28): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  LinkedList.c
+  LCRSTree.c
+  DoublyLinkedList.c
+  DisJointSet.c
+  CircularQueue.c
+  CircularDoublyLinkedList.c
+  BinaryTree.c
+  BinarySearchTree.c
+  ArrayStack.c
+  코드를 생성하고 있습니다...
